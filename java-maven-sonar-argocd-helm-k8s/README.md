@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/acd5f14c-ab17-4647-92f6-87f53d06d079)
+
 **1. Source Code**
 
 Description: The starting point for the pipeline, where the source code is stored.
